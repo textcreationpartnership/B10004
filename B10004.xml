@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the carrying on an actual survey of all the counties in the kingdom of England and principallity of Wales, in order to the compleating a new book in large folio, to be intituled Atlas Anglicanus by John Seller hydrographer to the King's Most Excellent Majesty.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10004</idno>
+            <idno type="STC">Wing S2484A</idno>
+            <idno type="STC">ESTC R213573</idno>
+            <idno type="EEBO-CITATION">69648923</idno>
+            <idno type="OCLC">ocm 69648923</idno>
+            <idno type="VID">185076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185076)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the carrying on an actual survey of all the counties in the kingdom of England and principallity of Wales, in order to the compleating a new book in large folio, to be intituled Atlas Anglicanus by John Seller hydrographer to the King's Most Excellent Majesty.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seller, John, fl. 1658-1698. --  Atlas Anglicanus</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Publishers and publishing --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185076:1" rendition="simple:additions"/>
+            <head>PROPOSALS For the Carrying on an Actual Survey of All the Counties in the Kingdom of <hi>ENGLAND</hi> and Principallity of <hi>WALES,</hi> in Order to the Compleating a New Book in Large Folio, to be Intituled Atlas Anglicanus.</head>
+            <byline>By <hi>John Seller</hi> Hydrographer to the KING's Moſt Excellent Majeſty, <hi>John Oliver</hi> and <hi>Richard Palmer.</hi>
+            </byline>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS our former PROPOSALS hath been gratefully Accepted by ſeveral of the Nobi<g ref="char:EOLhyphen"/>lity and Gentry of this Kingdom: And we having conſulted all Mapps already Extant, and finding ſo great a Deficiency therein, we thereupon thought our ſelves obliged to undertake this Great and Elaborate Work of an Actual Survey; wherein ſhall be truly laid down the Sci<g ref="char:EOLhyphen"/>tuation of all the Cities, Market Towns, Pariſh Churches, Villages, and the Reſidencies of all the Nobility and Gentry, with particular Diſtinctions, and other Places of Note; with all the Principal Roads, truly Delineated therein: Wherein you may find the Latitude of any Town or Place in any of the ſaid Mapps. And alſo an Exact Rule is given for the ready finding out any place at the firſt fixing your Eye upon the ſaid Mapps, and the Diſtances of one Place from another, without the trouble of Meaſuring.</p>
+            <p>To the Mapp of each County ſhall be annexed a Deſcription of the Air, Soil, Commodities, and Manufactures thereof; with other uſeful Remarques.</p>
+            <p>The whole ſhall be printed with a fair Character on Royal Paper: For the better performing the ſame, we will im<g ref="char:EOLhyphen"/>prove our utmoſt Care and Diligence, that nothing may be omitted in ſo Noble a Deſign; for the rendering the ſaid Mapps more compleat and perfect; and not only larger, but much more Ornamental, and far more uſeful than any hi<g ref="char:EOLhyphen"/>therto publiſhed.</p>
+            <p>We do proceed herein with all convenient ſpeed, hoping to have the whole compleated by <hi>Michaelmaſs Term</hi> 1681, if not before.</p>
+            <p>This being ſo Publick and Laborious an Undertaking (and was never yet effectually performed) by any; and in regard it requires ſo great an Expence in the Surveying, Engraving, and Printing thereof, we therefore, for the more Expeditious Carrying it on, do make theſe following
+<list>
+                  <head>PROPOSALS:</head>
+                  <item>1. Thoſe that will be pleaſed to ſubſcribe and pay unto any of the aforeſaid Undertakers, or their Aſſigns, the Sum of <hi>Fifty Shillings; Twenty</hi> whereof to be paid at the time of Subſcription; for which ſhall be given a Receipt under the Hand and Seal of any of the ſaid Undertakers; <hi>Thirty Shillings</hi> more to be paid at the Delivery of the ſaid Book in Quires, when compleated.</item>
+                  <item>2. Any Gentlemen that are deſirous to have a nearer Relation to the ſaid Work, paying the Charges thereof, may have their Coat of Arms curiouſly Engraven, as Benefactors to the ſame.</item>
+                  <item>3. Such Perſons of Honour and Quality, as ſhall be pleaſed to grace this Worthy Deſign with a more nearer Relati<g ref="char:EOLhyphen"/>on, may have the Mapp of any County they deſire, dedicated to them: for which ſome convenient Incouragement is expected.</item>
+                  <item>4. Thoſe that will be more Curious in their Books, may have them printed on Imperial Paper, with the Mapps and Coats of Arms Illuſtrated in their proper Colours; for which <hi>Fifty Shillings</hi> more is to be paid at the Delivery of the ſaid Book.</item>
+                  <item>5. Whoſoever ſhall procure Subſcriptions for Twelve of the ſaid Books (upon the performance thereof) ſhall have One of the ſaid Books preſented them <hi>gratis.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For the ſatisfaction of all Gentlemen that are Encouragers of this Deſign, none of the ſaid Books ſhall be ſold to any Perſon whatſoever, except to the Subſcribers, under Three Pounds ten Shillings a piece; neither ſhall any Book be delivered to any Perſon before the Subſcribers have theirs.</p>
+            <p>And for the better ſatisfaction to all Gentlemen of the Reality of this Deſign, there is to be ſeen at the Houſe of <hi>John Seller</hi> at the <hi>Hermitage</hi> in <hi>Wapping,</hi> and <hi>John Oliver</hi> at the <hi>Eagle and Child</hi> on <hi>Ludgate-Hill;</hi> the Succeſſive Progreſs of the Survey of each County, with a <hi>Specimen</hi> of our Work, being Mapps of one or more Counties; which is to be a Model to the reſt: And all to be performed in the ſame Manner and Exactneſs.</p>
+            <p>
+               <hi>FOR the Advancement of the Work above-mentioned, I will take and receive of</hi> John Seller, John Oliver, <hi>and</hi> Richard Palmer, <hi>or any of their Aſſigns, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> of the ſaid Books, and pay the Money expreſſed, according to the <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Propoſal.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
